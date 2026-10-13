@@ -1,0 +1,10 @@
+{
+  "version": "1.1.1",
+  "date": "2026-10-12",
+  "notes": "- Updates now come straight from the project's files on GitHub, so fixes reach you sooner\n- Includes everything from 1.1.0 and 1.0.7: Cyber Engine Tweaks is started through RED4ext when the game doesn't load it, the mod report, Vortex and Mod Organizer 2 handling, crash detection",
+  "setup": {
+    "file": "NightCityShred-Setup-1.1.1.exe",
+    "size": 9325568,
+    "sha256": "ee25a105b2f7ec3e975302b34dd84a26210e56d4c3c65bc103dca2da1f5613b2"
+  }
+}
